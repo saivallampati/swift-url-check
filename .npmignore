@@ -1,0 +1,12 @@
+benchmark.js
+*.test.js
+.gitignore
+.git/
+node_modules/
+coverage/
+.nyc_output/
+*.log
+.DS_Store
+.env
+.env.local
+jest.config.js
