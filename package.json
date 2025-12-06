@@ -1,7 +1,7 @@
 {
   "name": "swift-url-check",
   "version": "1.0.0",
-  "description": "Fast and robust URL validator - faster alternative to is-url-superb",
+  "description": "Fast and robust URL validator",
   "type": "module",
   "exports": "./index.js",
   "types": "./index.d.ts",
@@ -28,16 +28,16 @@
     "http",
     "https"
   ],
-  "author": "",
+  "author": "OpenSly",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": ""
+    "url": "https://github.com/opensly/swift-url-check.git"
   },
   "bugs": {
-    "url": ""
+    "url": "https://github.com/opensly/swift-url-check/issues"
   },
-  "homepage": "",
+  "homepage": "https://github.com/opensly/swift-url-check",
   "engines": {
     "node": ">=14"
   },

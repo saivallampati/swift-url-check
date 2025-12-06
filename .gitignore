@@ -9,5 +9,4 @@ coverage/
 dist/
 .env
 .env.local
-*.test.js
-benchmark.js
+

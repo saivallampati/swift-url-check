@@ -1,4 +1,4 @@
-# is-url-fast
+# swift-url-check
 
 > Fast and robust URL validator - a faster alternative to is-url-superb
 
@@ -18,7 +18,7 @@ This library provides a faster and more robust URL validation compared to `is-ur
 ## Install
 
 ```bash
-npm install is-url-fast
+npm install swift-url-check
 ```
 
 ## Usage
@@ -26,7 +26,7 @@ npm install is-url-fast
 ```javascript
 import isUrl from 'swift-url-check';
 
-isUrl('https://sindresorhus.com');
+isUrl('https://opensly.in');
 //=> true
 
 isUrl('not a url');
