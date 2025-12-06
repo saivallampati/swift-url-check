@@ -1,6 +1,6 @@
 # swift-url-check
 
-> Fast and robust URL validator - a faster alternative to is-url-superb
+> Fast and robust URL validator
 
 ## Why?
 
